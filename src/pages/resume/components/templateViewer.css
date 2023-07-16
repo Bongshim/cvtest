@@ -1,0 +1,47 @@
+/* Reassign values to variables */
+:root {
+}
+
+.pagedjs_page {
+  box-shadow: 10px 12px 30px 0 rgba(0, 0, 0, 0.1);
+  background: #ffffff;
+  margin: 1rem;
+}
+
+@top-left-corner {
+}
+@top-left {
+}
+@top-center {
+}
+@top-right {
+}
+@top-right-corner {
+}
+@left-top {
+}
+@left-middle {
+}
+@left-bottom {
+}
+@right-top {
+}
+@right-middle {
+}
+@right-bottom {
+}
+@bottom-left-corner {
+}
+@bottom-left {
+}
+@bottom-center {
+}
+@bottom-right {
+}
+@bottom-right-corner {
+}
+
+@page {
+  size: A4;
+  margin: 10in 4in;
+}

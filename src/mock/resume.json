@@ -1,0 +1,221 @@
+{
+    "introduction": {
+      "job_title": "Software Engineer",
+      "firstname": "John",
+      "lastname": "Doe",
+      "email": "johndoe@email.com",
+      "phone_number": "+1 (123) 456-7890",
+      "profile_image": "https://example.com/profile_image.jpg",
+      "country": "United States",
+      "city": "New York",
+      "address": "1234 Elm Street",
+      "date_of_birth": "January 1, 1990",
+      "postal_code": "12345"
+    },
+    "summary": "A highly skilled and motivated software engineer with 5 years of experience in full-stack web development. Strong expertise in Java, JavaScript, and web technologies. Passionate about creating efficient and scalable software solutions. A highly skilled and motivated software engineer with 5 years of experience in full-stack web development. Strong expertise in Java, JavaScript, and web technologies. Passionate about creating efficient and scalable software solutions.",
+    "experience": [
+      {
+        "id": 1,
+        "job_title": "Software Engineer",
+        "employer": "XYZ Tech",
+        "location": "New York, NY",
+        "start_date": "January 2018",
+        "end_date": "Present",
+        "description": "Develop and maintain web applications using Java, Spring, and Angular. Collaborate with cross-functional teams to deliver high-quality software solutions. Participate in code reviews and provide technical expertise.",
+        "present": true
+      },
+      {
+        "id": 2,
+        "job_title": "Software Developer",
+        "employer": "ABC Solutions",
+        "location": "Los Angeles, CA",
+        "start_date": "June 2015",
+        "end_date": "December 2017",
+        "description": "Worked on the development of web applications using Java, Spring, and JavaScript. Implemented new features and enhancements, conducted code refactoring, and resolved software defects. Collaborated with team members to meet project deadlines.",
+        "present": false
+      }
+    ],
+    "education": [
+      {
+        "school": "University of California, Berkeley",
+        "degree": "Bachelor of Science in Computer Science",
+        "location": "Berkeley, CA",
+        "description": "Studied computer science fundamentals, including data structures, algorithms, and software development principles.",
+        "start_date": "August 2011",
+        "end_date": "May 2015"
+      }
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "link": "https://github.com/johndoe"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "https://www.linkedin.com/in/johndoe"
+      }
+    ],
+    "skills": [
+      {
+        "skill": "Java",
+        "level": "Expert"
+      },
+      {
+        "skill": "JavaScript",
+        "level": "Advanced"
+      },
+      {
+        "skill": "Spring",
+        "level": "Expert"
+      },
+      {
+        "skill": "Angular",
+        "level": "Advanced"
+      },
+      {
+        "skill": "HTML/CSS",
+        "level": "Advanced"
+      },
+      {
+        "skill": "SQL",
+        "level": "Intermediate"
+      },
+      {
+        "skill": "Java",
+        "level": "Expert"
+      },
+      {
+        "skill": "JavaScript",
+        "level": "Advanced"
+      },
+      {
+        "skill": "Spring",
+        "level": "Expert"
+      },
+      {
+        "skill": "Angular",
+        "level": "Advanced"
+      },
+      {
+        "skill": "HTML/CSS",
+        "level": "Advanced"
+      },
+      {
+        "skill": "SQL",
+        "level": "Intermediate"
+      },
+      {
+        "skill": "Java",
+        "level": "Expert"
+      },
+      {
+        "skill": "JavaScript",
+        "level": "Advanced"
+      },
+      {
+        "skill": "Spring",
+        "level": "Expert"
+      },
+      {
+        "skill": "Angular",
+        "level": "Advanced"
+      },
+      {
+        "skill": "HTML/CSS",
+        "level": "Advanced"
+      },
+      {
+        "skill": "SQL",
+        "level": "Intermediate"
+      },
+      {
+        "skill": "Java",
+        "level": "Expert"
+      },
+      {
+        "skill": "JavaScript",
+        "level": "Advanced"
+      },
+      {
+        "skill": "Spring",
+        "level": "Expert"
+      },
+      {
+        "skill": "Angular",
+        "level": "Advanced"
+      },
+      {
+        "skill": "HTML/CSS",
+        "level": "Advanced"
+      },
+      {
+        "skill": "SQL",
+        "level": "Intermediate"
+      },
+      {
+        "skill": "Java",
+        "level": "Expert"
+      },
+      {
+        "skill": "JavaScript",
+        "level": "Advanced"
+      },
+      {
+        "skill": "Spring",
+        "level": "Expert"
+      },
+      {
+        "skill": "Angular",
+        "level": "Advanced"
+      },
+      {
+        "skill": "HTML/CSS",
+        "level": "Advanced"
+      },
+      {
+        "skill": "SQL",
+        "level": "Intermediate"
+      },
+      {
+        "skill": "Java",
+        "level": "Expert"
+      },
+      {
+        "skill": "JavaScript",
+        "level": "Advanced"
+      },
+      {
+        "skill": "Spring",
+        "level": "Expert"
+      },
+      {
+        "skill": "Angular",
+        "level": "Advanced"
+      },
+      {
+        "skill": "HTML/CSS",
+        "level": "Advanced"
+      },
+      {
+        "skill": "SQL",
+        "level": "Intermediate"
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "level": "Native"
+      },
+      {
+        "language": "Spanish",
+        "level": "Intermediate"
+      }
+    ],
+    "certifications": [
+      {
+        "certification_name": "Oracle Certified Java Programmer",
+        "description": "Certification demonstrating proficiency in Java programming language.",
+        "date": "June 2019"
+      }
+    ]
+  }
